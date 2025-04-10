@@ -27,7 +27,7 @@ The platform consists of three main components:
 
 ### Smart Contract Structure
 
-- **User Management**: Registration system with unique usernames and comprehensive user metrics
+- **User Management**: Registration system using comprehensive user metrics
 - **Auction Creation & Management**: Full auction lifecycle from creation to completion
 - **Bidding System**: Secure bid placement with automatic refund management
 - **Analytics Storage**: On-chain tracking of key performance indicators
@@ -40,7 +40,7 @@ The platform uses three primary data structures:
 
 Tracks individual user data including:
 
-- Username and reputation points
+- User detail and reputation points
 - Bidding statistics (total bids, win rate, etc.)
 - Auction participation metrics
 
