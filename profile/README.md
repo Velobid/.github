@@ -7,6 +7,14 @@
 
 Velobid is a next-generation decentralized auction platform built on blockchain technology, featuring an integrated AI assistant that educates users about auctions and blockchain concepts. This platform combines the transparency and security of smart contracts with an intuitive user experience designed for both blockchain enthusiasts and newcomers alike.
 
+## 🔗 Project Links
+
+- **🌐 Project Website:** Coming Soon  
+- **📹 Demo Video:** Coming Soon  
+- **📄 Documentation:** [GitHub Repository](https://github.com/Velobid)  
+- **📝 Smart Contract Address:** `0x34Daa6D3996DD1E1925c42e7eB5A88B8EE48137a`  
+- **🔍 View on BlockScout:** [Deployed Contract on EDU Chain Testnet](https://edu-chain-testnet.blockscout.com/address/0x34Daa6D3996DD1E1925c42e7eB5A88B8EE48137a)
+
 ## ✨ Key Features
 
 - **Decentralized Auctions**: Create and participate in transparent, tamper-proof auctions
